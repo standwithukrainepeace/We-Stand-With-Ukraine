@@ -17,8 +17,10 @@
 }
 
 .h1 {
+    font-family: 'Raleway', sans-serif;
     width: 100%;
     font-size: 5rem;
+    font-wight: 700;
     color: #f3f3f3;
     text-align: center;
     margin-bottom: 20px;
@@ -26,8 +28,10 @@
 }
 
 .h2 {
+    font-family: 'Raleway', sans-serif;
     width: 100%;
     font-size: 3rem;
+    font-wight: 600;
     color: #ffffff;
     text-align: center;
     margin-bottom: 20px;
